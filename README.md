@@ -3,6 +3,6 @@
 
 #programs:
 
- 1.weather api to get weather of a city.
+ 1. [weather api](https://openweathermap.org/api) to get weather of a city.
  
- 2.dictionary api to get meaning of a word.
+ 2. [dictionary api](https://dictionaryapi.dev/) to get meaning of a word.
